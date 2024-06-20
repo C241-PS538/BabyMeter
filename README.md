@@ -1,5 +1,3 @@
----
-
 # BabyMeter Capstone Project
 
 ![BabyMeter Logo](https://storage.googleapis.com/asset-design/logo/Babymeter%20Logo%20HD.png)
@@ -35,5 +33,3 @@ Repository: [https://github.com/faqih-rus/api-babymeter.git](https://github.com/
 - **Perbarui Profil Perawat**: Perawat dapat memperbarui profil mereka untuk memastikan informasi yang akurat.
 
 Proyek Capstone BabyMeter merupakan hasil kerja keras dan kolaborasi antara tiga tim yang berbeda, dengan tujuan untuk memberikan solusi yang komprehensif dalam memantau pertumbuhan dan kesehatan bayi. Kami berharap aplikasi ini dapat membantu para profesional kesehatan dan orang tua dalam memberikan perawatan yang lebih baik untuk bayi mereka.
-
----
